@@ -1,8 +1,9 @@
 import React from 'react'
+import Cabecalho from '../../components/cabecalho';
 
 const PaginaInicial = () => {
   return (
-    <div>Página Inicial</div>
+    <Cabecalho />
   );
 }
 
