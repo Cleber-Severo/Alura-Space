@@ -17,7 +17,7 @@ const PaginaInicial = () => {
           <Rodape/>
         </section>
       </main>
-      <div>
+      <div className={styles.galeria}>
         <Galeria />
       </div>
     </>
